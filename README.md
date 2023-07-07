@@ -1,6 +1,9 @@
 # Side-Projects
+Side projects are important for developing skills and creating value for others. But they're often hard to come up with. Below are a few ideas.
+
 
 # Ideas
+
 | Project                                                                                      |   Difficulty          |  Notes |
 |----------------------------------------------------------------------------------------------|-----------------------|----------------------------|
 | Make a simple, free upvoting poll                                                            | Medium                |  Like [canny.io](https://canny.io/) but no email signup, free, simpler |
