@@ -10,4 +10,5 @@ Side projects are important for developing skills and creating value for others.
 | Build a networking reminder tool. Like abcd system                                           | Medium                |  Like [this](https://jakobgreenfeld.com/stay-in-touch) but no airtable, polished |
 | SaaS idea generator                                                           | Easy                |  Toy project. E.g., Uber x Upwork, Netflix x AirBnB  |
 | A better podcast discovery/search tool. Do for audio what Google did for text                                                            | Hard                |  [UI](https://askmybook.com/) + [this](https://twitter.com/karpathy/status/1574474952446615552?lang=en) + [ListenNotes](https://www.listennotes.com/). Like [this](https://hello.fathom.fm/) |
+| Build a lip reader from videos                                                             | Medium-ish               |  Don't know if this exists, but it'd be cool. App-ify and decode distant convo? |
 |                                                             |                 |  |
