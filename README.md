@@ -14,7 +14,7 @@ Side projects are important for developing skills and creating value for others.
 | Something with Hacker News using [this](https://cs.stanford.edu/people/karpathy/hn_analysis.html)                                                            |  Easy               |  +[Analytics app](https://medium.com/pycob/build-a-hacker-news-analytics-app-in-73-lines-of-python-21f1cd020e3d), [Tips](https://www.groovehq.com/blog/hacker-news), [optimize title](https://minimaxir.com/2022/08/gpt3-blog-title-optimizer/)|
 | Software for latam                                                            |  Depends               | [HN](https://news.ycombinator.com/item?id=34482433) |
 | Auto Logo generator w/o text                                                             | Medium                |  |
-|                                                             |                 |  |
+|  lex summary newsletter                                                           |                 |  |
 |                                                             |                 |  |
 |                                                             |                 |  |
 |                                                             |                 |  |
