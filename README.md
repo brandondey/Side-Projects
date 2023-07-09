@@ -15,7 +15,7 @@ Side projects are important for developing skills and creating value for others.
 | Software for latam                                                            |  Depends               | [HN](https://news.ycombinator.com/item?id=34482433) |
 | Auto Logo generator w/o text                                                             | Medium                |  |
 |  lex summary newsletter. TLexDR.                                                            | Easy              |  |
-|                                                             |                 |  |
+|  Simple referral app for DS jobs                                                           |  Hard               | Expand on [this?](https://github.com/johan-akerman/Greet) |
 |                                                             |                 |  |
 |                                                             |                 |  |
 |                                                             |                 |  |
