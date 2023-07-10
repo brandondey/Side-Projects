@@ -16,7 +16,7 @@ Side projects are important for developing skills and creating value for others.
 | Auto Logo generator w/o text                                                             | Medium                |  |
 |  lex summary newsletter. TLexDR.                                                            | Easy              |  |
 |  Simple referral app for DS jobs                                                           |  Hard               | Expand on [this?](https://github.com/johan-akerman/Greet) |
-|                                                             |                 |  |
+|  Help people pick better profile pics                                                          |  Hard               | Everyone sucks at this according to [this paper](https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-017-0058-3) |
 |                                                             |                 |  |
 |                                                             |                 |  |
 
