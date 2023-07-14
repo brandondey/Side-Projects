@@ -18,5 +18,5 @@ Side projects are important for developing skills and creating value for others.
 |  Simple referral app for DS jobs                                                           |  Hard               | Expand on [this?](https://github.com/johan-akerman/Greet) |
 |  Help people pick better profile pics                                                          |  Hard               | Everyone sucks at this according to [this paper](https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-017-0058-3) |
 |  Ask my book                                                           | Medium                | [Fork](https://github.com/slavingia/askmybook) |
-|                                                             |                 |  |
+|  Super RSS. Customize idea feeds with your own sources.                                                           |  Hard depending on sources               |  |
 
