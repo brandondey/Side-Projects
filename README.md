@@ -19,7 +19,7 @@ Side projects are important for developing skills and creating value for others.
 |  Help people pick better profile pics                                                          |  Hard               | Everyone sucks at this according to [this paper](https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-017-0058-3) |
 |  Ask my book                                                           | Medium                | [Fork](https://github.com/slavingia/askmybook) |
 |  Super RSS. Customize idea feeds with your own sources.                                                           |  Hard depending on sources               |  |
-| dynmaic personalized art.                                                         |  Hard            |  analyzes viewer reactions, adapts AV elements in real-time, unique/immersive experience for each person|
+| dynmaic personalized art.                                                         |  Hard            |  analyzes viewer reactions, adapts AV elements in real-time, unique/immersive experience for each person. amazon go like ux|
 |                                                          |  Hard            |  |
 |                                                          |  Hard            |  |
 |                                                          |  Hard            |  |
