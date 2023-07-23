@@ -20,7 +20,7 @@ Side projects are important for developing skills and creating value for others.
 |  Ask my book                                                           | Medium                | [Fork](https://github.com/slavingia/askmybook) |
 |  Super RSS. Customize idea feeds with your own sources.                                                           |  Hard depending on sources               |  |
 | dynmaic personalized art.                                                         |  Hard            |  analyzes viewer reactions, adapts AV elements in real-time, unique/immersive experience for each person. amazon go like ux|
-|                                                          |  Hard            |  |
+|  Long YouTube video summarizer.                                                        |  Medium            | Like  [this](https://www.summarize.tech/) but sleeker UI, search options, summarize by chapter, and custom summarization prompts. |
 |                                                          |  Hard            |  |
 |                                                          |  Hard            |  |
 |                                                          |  Hard            |  |
