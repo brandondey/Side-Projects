@@ -23,7 +23,7 @@ Side projects are important for developing skills and creating value for others.
 |  Long YouTube video summarizer.                                                        |  Medium            | Like  [this](https://www.summarize.tech/) but sleeker UI, search options, summarize by chapter, and custom summarization prompts. |
 |  Maps of google searches                                                        |  Easy            | Like [this](https://www.travlerz.com/en/united-states-maps?ly=native_one) but much higher quality and source citations |
 |  ChatBots for all content creators                                                        |  Medium            | Make all newsletters, podcasts, essays query-able with ChatGPT. [LennyBot](https://www.lennysnewsletter.com/p/i-built-a-lenny-chatbot-using-gpt) |
-|  What do 1M human voices sound like together?                                                        |  Hard            |  |
+|  What do 1M human voices sound like together?                                                        |  Easy            |  |
 |                                                          |  Hard            | Easy |
 |                                                          |  Hard            |  |
 |                                                          |  Hard            |  |
