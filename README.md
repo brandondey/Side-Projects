@@ -17,14 +17,14 @@ Side projects are important for developing skills and creating value for others.
 |  lex summary newsletter. TLexDR.                                                            | Easy              |  Done [here](https://tlexdr.eo.page/home) |
 |  Simple referral app for DS jobs                                                           |  Hard               | Expand on [this?](https://github.com/johan-akerman/Greet) |
 |  Help people pick better profile pics                                                          |  Hard               | Everyone sucks at this according to [this paper](https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-017-0058-3) |
-|  Ask my book                                                           | Medium                | [Fork](https://github.com/slavingia/askmybook) |
+|  Ask my book                                                           | Easy                | [Fork](https://github.com/slavingia/askmybook) |
 |  Super RSS. Customize idea feeds with your own sources.                                                           |  Hard depending on sources               |  |
 | dynmaic personalized art.                                                         |  Hard            |  analyzes viewer reactions, adapts AV elements in real-time, unique/immersive experience for each person. amazon go like ux|
 |  Long YouTube video summarizer.                                                        |  Medium            | Like  [this](https://www.summarize.tech/) but sleeker UI, search options, summarize by chapter, and custom summarization prompts. |
 |  Maps of google searches                                                        |  Easy            | Like [this](https://www.travlerz.com/en/united-states-maps?ly=native_one) but much higher quality and source citations |
 |  ChatBots for all content creators                                                        |  Medium            | Make all newsletters, podcasts, essays query-able with ChatGPT. [LennyBot](https://www.lennysnewsletter.com/p/i-built-a-lenny-chatbot-using-gpt) |
 |  What do 1M human voices sound like together?                                                        |  Easy            |  |
-|                                                          |  Hard            | Easy |
+|                                                          |  Hard            |  |
 |                                                          |  Hard            |  |
 |                                                          |  Hard            |  |
 
