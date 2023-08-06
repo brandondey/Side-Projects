@@ -14,7 +14,7 @@ Side projects are important for developing skills and creating value for others.
 | Something to optimize Hacker News posts.  |  Easy               |  [This](https://cs.stanford.edu/people/karpathy/hn_analysis.html)+[Analytics app](https://medium.com/pycob/build-a-hacker-news-analytics-app-in-73-lines-of-python-21f1cd020e3d), [Tips](https://www.groovehq.com/blog/hacker-news), [optimize title](https://minimaxir.com/2022/08/gpt3-blog-title-optimizer/)|
 | Software for latam                                                            |  Depends               | [HN](https://news.ycombinator.com/item?id=34482433) |
 | Auto Logo generator w/o text                                                             | Medium                |  |
-|  lex summary newsletter. TLexDR.                                                            | Easy              |  |
+|  lex summary newsletter. TLexDR.                                                            | Easy              |  Done here: https://tlexdr.eo.page/home |
 |  Simple referral app for DS jobs                                                           |  Hard               | Expand on [this?](https://github.com/johan-akerman/Greet) |
 |  Help people pick better profile pics                                                          |  Hard               | Everyone sucks at this according to [this paper](https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-017-0058-3) |
 |  Ask my book                                                           | Medium                | [Fork](https://github.com/slavingia/askmybook) |
