@@ -25,7 +25,7 @@ Side projects are important for developing skills and creating value for others.
 |  ChatBots for all content creators                                                        |  Medium            | Make all newsletters, podcasts, essays query-able with ChatGPT. [LennyBot](https://www.lennysnewsletter.com/p/i-built-a-lenny-chatbot-using-gpt) |
 |  What do 1M human voices sound like together?                                                        |  Easy            |  |
 |  Rank scientific claims by their uncertainty                                                        |  Hard            |  |
-|                                                          |  Hard            |  |
+|  Simple tool to translate geographic sizes (303 square miles) to meaningful areas (NYC's 5 boroughs)                                                        |  Medium            | Collecting the db will be tedious |
 |                                                          |  Hard            |  |
 
 
